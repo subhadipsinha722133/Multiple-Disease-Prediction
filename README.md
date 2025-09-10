@@ -53,13 +53,18 @@ Copy code
 streamlit run app.py
 Open your browser at http://localhost:8501
 
+---
 
 # 🤝 Contributing
 Contributions are welcome!
 Feel free to open an Issue or submit a Pull Request.
 
+---
+
 # 📜 License
 This project is licensed under the MIT License.
+
+---
 
 # 👨‍💻 Author
 
