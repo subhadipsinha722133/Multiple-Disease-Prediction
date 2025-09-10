@@ -63,6 +63,6 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-Subhadip Sinha
+**Subhadip Sinha**
 
 
