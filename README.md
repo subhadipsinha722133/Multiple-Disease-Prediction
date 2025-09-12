@@ -32,8 +32,6 @@ multiple-disease-prediction-streamlit-app/<br>
 │── requirements.txt # Dependencies<br>
 │── README.md # Project documentation<br>
 
-
-
 ---
 
 ## ⚡ Installation & Usage
